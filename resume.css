@@ -1,0 +1,73 @@
+.container{
+    margin: 5%;
+    padding-left: 15%;
+}
+
+#profile1{
+    background-color: #101013;
+}
+
+#profile2{
+    background-color: rgb(178, 181, 184);
+}
+
+.logo{
+    align-items: center;
+    padding-left: 25%;
+    padding-top: 5%;
+}
+
+.names{
+    color: white;
+    margin-top: 3%;
+    text-align: center;
+}
+
+.contact-container{
+    margin-top: 10%;
+}
+
+.contacts{
+    background-color: rgb(178, 181, 184);
+    padding-top: 5%;
+    text-align: center;
+    padding: 2%;
+}
+
+.icons{
+    height: 70%;
+    width: 45px;
+}
+
+#icons{
+    padding-top: 2%;
+    margin-top: 2%;
+    color: white;
+}
+
+#phone{
+    text-align: left;
+}
+
+.skills{
+    color: white;
+    padding-top: 5%;
+}
+
+.list{
+    list-style: none;
+}
+
+.profile-container{
+    border-bottom: 2px;
+    border-bottom-style: solid;
+    padding-top: 15%;
+}
+
+.text{
+    padding-top: 5%;
+}
+
+.work{
+    padding-top: 5%;
+}
